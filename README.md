@@ -1,9 +1,5 @@
 # Password_Manager
-> Password Manager written in JAVA
 
-![password manager](assets/2.png)
-
-![password manager](assets/1.png)
 
 # Features
 - Uses the AES encryption algorithm
